@@ -14,4 +14,4 @@ Ans: There are several ways to do this. Python has couple of libraries which can
 
 2. Can model learn(Re-Train) while on production ?
 Ans: this is possible and only avialable with mininum algorithms. the Process is called Incremental Classification.
- [here]()is an example of the same using sklearn library and SGDClassifier
+ [here](https://nbviewer.jupyter.org/github/saianil58/Model_Deployment/blob/master/updatable%20classifier.ipynb) is an example of the same using sklearn library and SGDClassifier
