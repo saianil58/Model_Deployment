@@ -10,7 +10,7 @@ We would look at ways where we can
   
     - Pickle
     - Joblib
-[Example Code](https://nbviewer.jupyter.org/github/saianil58/Model_Deployment/blob/master/pickling.ipynb)
+[Example](https://nbviewer.jupyter.org/github/saianil58/Model_Deployment/blob/master/pickling.ipynb)
 
 2. Can model learn(Re-Train) while on production ?
 
